@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harinandanmv11@gmail.com
 - 😄 Pronouns: its.Hariii
-- ⚡ Fun fact: I'm not a techie, JK!!
+- ⚡ Fun fact: I'm not a techie, JK!!!
 
 <!---
 HaRi-011/HaRi-011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
