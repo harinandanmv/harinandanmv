@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Coding+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Tech+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,6 +24,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <a href="https://x.com/harinandanmv" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:harinandanmv11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/harinandanmv" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/harinandanmv" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
@@ -40,6 +41,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
