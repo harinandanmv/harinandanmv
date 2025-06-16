@@ -1,8 +1,5 @@
-<h1 align="center">Hey there 👋, I'm M V Harinandan!</h1>
-<h3 align="center">💫 MCA Student | Aspiring Full-Stack Developer | Tech Explorer</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Coding+Enthusiast;🌐+Aspiring+Full-Stack+Developer;⚙️+Build.+🧠+Break.+🚀+Learn.+Repeat" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Coding+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
