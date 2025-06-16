@@ -57,3 +57,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 <p align="center">
   🚀 Thanks for visiting my profile! Let’s connect and build something amazing.
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harinandanmv&label=Profile+Views&color=0e75b6&style=flat-square" alt="harinandanmv" />
+</p>
