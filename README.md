@@ -43,26 +43,18 @@
 
 ---
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harinandanmv&theme=dark&show_icons=true&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinandanmv&theme=dark&layout=compact&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harinandanmv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinandanmv&theme=dark&hide_border=false&layout=compact&langs_count=6" height="200" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=harinandanmv&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harinandanmv&theme=dark&hide_border=false" width="60%" />
-</p>
 
 ---
 
-### 🔥 Profile Visits
-
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=harinandanmv&label=Profile%20Visits&color=6&icon=5&pretty=true" alt="harinandanmv's Profile Visit Count" />
-  </a>
+  🚀 Thanks for visiting my profile!
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
