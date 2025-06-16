@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm M V Harinandan!</h1>
-<h3 align="center">💫 MCA Student | Coding Enthusiast | Creative Technologist</h3>
+<h3 align="center">💫 MCA Student | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Code.+Create.+Collaborate.;AI+%7C+Web+%7C+Vision+%7C+Open+Source+❤️;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Build.+Break.+Learn.+Repeat;" alt="Typing SVG" />
 </p>
 
 ---
@@ -58,6 +58,11 @@
 
 ### 🔥 Profile Visits
 
-[![](https://visitcount.itsvg.in/api?id=harinandanmv&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=harinandanmv&label=Profile%20Visits&color=6&icon=5&pretty=true" alt="harinandanmv's Profile Visit Count" />
+  </a>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
