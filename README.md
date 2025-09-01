@@ -54,7 +54,11 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinandanmv&theme=tokyonight&hide_border=false&layout=compact&langs_count=10" height="200" alt="Top Languages"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinandanmv&theme=2077" height="200" alt="Profile Details"/>
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinandanmv&theme=2077" height="180" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinandanmv&theme=2077" height="180" alt="GitHub Stats"/>
 </p>
 
 ---
