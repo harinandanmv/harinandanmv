@@ -13,7 +13,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 - 🔧 From web apps to AI tools, I love building stuff that solves problems and sparks creativity  
 - 🤝 Open to collaborations, internships, and exciting tech conversations  
 - 📬 Reach out at **harinandanmv11@gmail.com** | Pronouns: *its.Hariii*  
-- 😄 *Fun Fact:* I often say “I’m not a techie” — but honestly, I’ve already made peace with my inner coder! 🚀
+- 😄 *Fun Fact:* I often say “I’m not a techie” — but honestly, I’ve already made peace with my inner coder! 🚀  
 
 ---
 
@@ -48,6 +48,23 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <img src="https://img.shields.io/badge/Canva-E91E63?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
+
+---
+### 🚀 Featured Projects
+
+- 🚗 [Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental) – A web-based car rental system built with Laravel and MySQL  
+- ⛅ [Weather Web App](https://github.com/harinandanmv/weather-web-app) – Simple web application that fetches and displays real-time weather data  
+- 🖥️ [Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental) – Desktop car rental management system built with Java Swing  
+- 🤖 [OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects) – Collection of AI-based projects using Python, OpenCV, and MediaPipe  
+
+---
+
+### 🎮 Outside of Tech
+
+- ⚽🏏 Football and cricket enthusiast  
+- 🎶 Enjoy listening to music while coding  
+- 🎥 Movie lover — always up for a good film  
+- 🤖 Curious about AI and its applications in everyday life  
 
 ---
 
