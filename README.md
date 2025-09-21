@@ -50,6 +50,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 </p>
 
 ---
+
 ### 🚀 Featured Projects
 
 - 🚗 [Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental) – A web-based car rental system built with Laravel and MySQL  
@@ -80,6 +81,15 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ---
 
+### 🐍 My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+---
+
 <p align="center">
   🚀 Thanks for visiting my profile! Let’s connect and build something amazing.
 </p>
@@ -87,3 +97,5 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harinandanmv&label=Profile+Views&color=0e75b6&style=flat-square" alt="harinandanmv" />
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
