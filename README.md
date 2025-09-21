@@ -81,15 +81,6 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ---
 
-### 🐍 My Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/snake.svg" alt="Snake animation" />
-</div>
-
-
----
-
 <p align="center">
   🚀 Thanks for visiting my profile! Let’s connect and build something amazing.
 </p>
