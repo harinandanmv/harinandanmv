@@ -78,8 +78,6 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinandanmv&theme=2077" height="180" alt="Repos per Language"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinandanmv&theme=2077" height="180" alt="GitHub Stats"/>
 </p>
-![Snake animation](https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/snake.svg)
-
 
 ---
 
