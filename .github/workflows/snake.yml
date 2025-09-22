@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
-  workflow_dispatch:     # allow manual runs
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:     # manual trigger
 
 permissions:
   contents: write
@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: harinandanmv
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          args: "--snake-color #39FF14 --background-color #0d1117"
+          args: "--palette github-dark"  # must be a valid predefined palette
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
