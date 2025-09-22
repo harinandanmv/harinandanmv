@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: harinandanmv
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          args: "--palette github-dark"  # Optional: choose a palette
+          args: "--snake-color #39FF14 --background-color #0d1117"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
