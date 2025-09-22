@@ -1,7 +1,7 @@
 name: GitHub Snake Game
 
 on:
-  # Allow manual triggering
+  # Manual trigger
   workflow_dispatch:
 
   # Schedule to run daily at midnight UTC
@@ -52,3 +52,4 @@ jobs:
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
           allow_empty_commit: true
+          force_orphan: true
