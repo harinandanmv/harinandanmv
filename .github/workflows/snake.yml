@@ -1,14 +1,9 @@
 name: GitHub Snake Game
 
 on:
-  # Manual trigger
   workflow_dispatch:
-
-  # Schedule to run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-
-  # Trigger on pushes to main branch
   push:
     branches:
       - main
@@ -19,15 +14,12 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Ensure dist folder exists
       - name: Create dist folder
         run: mkdir -p dist
 
-      # Step 3: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
@@ -39,11 +31,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: List generated files for debugging
       - name: List dist folder
         run: ls -la dist
 
-      # Step 5: Deploy the generated files to the 'output' branch
+      # Git config for deploy
+      - name: Setup Git for deploy
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
