@@ -57,6 +57,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 - ⛅ [Weather Web App](https://github.com/harinandanmv/weather-web-app) – Simple web application that fetches and displays real-time weather data  
 - 🖥️ [Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental) – Desktop car rental management system built with Java Swing  
 - 🤖 [OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects) – Collection of AI-based projects using Python, OpenCV, and MediaPipe  
+- 📚 [Study-Tracker App](https://github.com/harinandanmv/study-tracker) – An Android app that helps students plan, organize, and track their study schedule efficiently  
 
 ---
 
