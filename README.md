@@ -93,4 +93,4 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <img src="https://komarev.com/ghpvc/?username=harinandanmv&label=Profile+Views&color=0e75b6&style=flat-square" alt="harinandanmv" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
