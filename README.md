@@ -1,6 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
 
 ---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Tech+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
@@ -61,15 +62,6 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 - 🖥️ [Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental) – Desktop car rental management system built with Java Swing  
 - 🤖 [OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects) – Collection of AI-based projects using Python, OpenCV, and MediaPipe  
 - 📚 [Study-Tracker App](https://github.com/harinandanmv/study-tracker) – An Android app that helps students plan, organize, and track their study schedule efficiently  
-
----
-
-### 🎮 Outside of Tech
-
-- ⚽🏏 Football and cricket enthusiast  
-- 🎶 Enjoy listening to music while coding  
-- 🎥 Movie lover — always up for a good film  
-- 🤖 Curious about AI and its applications in everyday life  
 
 ---
 
