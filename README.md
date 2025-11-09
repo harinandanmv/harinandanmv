@@ -1,19 +1,19 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Tech+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+🧑‍💻+Tech+Enthusiast;🛠️+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
+### ✨ About Me
 
 Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a serious love for tech.
 
 - 🌱 Constantly learning and experimenting with new frameworks, tools, and technologies  
-- 💻 Passionate about turning ideas into functional, real-world solutions  
-- 🔧 From web apps to AI tools, I love building stuff that solves problems and sparks creativity  
+- 🧠 Passionate about turning ideas into functional, real-world solutions  
+- 🔧 From web apps to AI tools, I love building things that solve problems and spark creativity  
 - 🤝 Open to collaborations, internships, and exciting tech conversations  
 - 📬 Reach out at **harinandanmv11@gmail.com** | Pronouns: *its.Hariii*  
-- 😄 *Fun Fact:* I often say “I’m not a techie” — but honestly, I’ve already made peace with my inner coder! 🚀  
+- 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise 🚀  
 
 ---
 
@@ -30,7 +30,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -64,15 +64,24 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ### 🚀 Featured Projects
 
-- 🚗 [Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental) – A web-based car rental system built with Laravel and MySQL  
-- ⛅ [Weather Web App](https://github.com/harinandanmv/weather-web-app) – Simple web application that fetches and displays real-time weather data  
-- 🖥️ [Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental) – Desktop car rental management system built with Java Swing  
-- 🤖 [OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects) – Collection of AI-based projects using Python, OpenCV, and MediaPipe  
-- 📚 [Study-Tracker App](https://github.com/harinandanmv/study-tracker) – An Android app that helps students plan, organize, and track their study schedule efficiently  
+- 🚗 **[Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental)**  
+      Web-based car rental management system built with Laravel and MySQL.
+
+- ⛅ **[Weather Web App](https://github.com/harinandanmv/weather-web-app)**  
+      A simple app to fetch and display real-time weather details.
+
+- 🖥️ **[Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental)**  
+      Desktop car rental management system built with Java Swing.
+
+- 🤖 **[OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects)**  
+      A collection of computer vision and AI-based projects using Python and OpenCV.
+
+- 📚 **[Study Tracker App](https://github.com/harinandanmv/study-tracker)**  
+      Android app to plan, organize, and track study sessions effectively.
 
 ---
 
-### 🟡 My Contributions
+### 👻 My Contributions
 
 <p align="center">
   <picture>
@@ -84,24 +93,24 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinandanmv&theme=2077" height="200" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinandanmv&theme=2077" height="200" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinandanmv&theme=2077" height="180" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinandanmv&theme=2077" height="180" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinandanmv&theme=2077" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinandanmv&theme=2077" height="180" />
 </p>
 
 ---
 
 <p align="center">
-  🚀 Thanks for visiting my profile! Let’s connect and build something amazing.
+  🤝 Thanks for visiting my profile! Let’s connect and build something amazing.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harinandanmv&label=Profile+Views&color=0e75b6&style=flat-square" alt="harinandanmv" />
+  <img src="https://komarev.com/ghpvc/?username=harinandanmv&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
