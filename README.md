@@ -1,7 +1,3 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
-
----
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+💻+Tech+Enthusiast;🌐+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
@@ -66,6 +62,12 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 ---
 
 ### 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinandanmv&theme=2077" height="200" alt="Profile Details"/>
