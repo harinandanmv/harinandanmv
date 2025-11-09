@@ -72,13 +72,20 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 
 ---
 
+### 🟡 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contributions"/>
+  </picture>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harinandanmv/harinandanmv/output/pacman-contribution-graph.svg">
-</picture>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinandanmv&theme=2077" height="200" alt="Profile Details"/>
 </p>
