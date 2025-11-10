@@ -65,19 +65,19 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 ### 🚀 Featured Projects
 
 - 🚗 **[Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental)**  
-      Web-based car rental management system built with Laravel and MySQL.
+      A streamlined car rental management system with booking, user management, and vehicle inventory features built using Laravel and MySQL.
 
 - ⛅ **[Weather Web App](https://github.com/harinandanmv/weather-web-app)**  
-      A simple app to fetch and display real-time weather details.
+      A simple and responsive web app that fetches and displays real-time weather information using an external weather API.
 
 - 🖥️ **[Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental)**  
-      Desktop car rental management system built with Java Swing.
+      A desktop application for managing car rentals, developed with Java Swing, featuring customer handling and rental logs.
 
 - 🤖 **[OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects)**  
-      A collection of computer vision and AI-based projects using Python and OpenCV.
+      A collection of computer vision and AI mini-projects demonstrating gesture detection, face tracking, pose estimation, and more.
 
 - 📚 **[Study Tracker App](https://github.com/harinandanmv/study-tracker)**  
-      Android app to plan, organize, and track study sessions effectively.
+      An Android app designed to help students schedule study sessions, monitor progress, and maintain consistent learning habits.
 
 ---
 
