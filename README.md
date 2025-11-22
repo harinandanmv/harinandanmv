@@ -13,7 +13,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 - 🔧 From web apps to AI tools, I love building things that solve problems and spark creativity  
 - 🤝 Open to collaborations, internships, and exciting tech conversations  
 - 📬 Reach out at **harinandanmv11@gmail.com** | Pronouns: *its.Hariii*  
-- 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise 🚀  
+- 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise 
 
 ---
 
