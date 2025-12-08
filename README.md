@@ -28,7 +28,7 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
   <a href="https://leetcode.com/harinandanmv" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 <p align="center">
-  <a href="https://your-portfolio-link" target="_blank">
+  <a href="http://harinandanmv.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
