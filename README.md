@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hiii+%2C+I'm+Harinandan;🎓+MCA+Graduate+%7C+🧑‍💻+Tech+Enthusiast;🛠️+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hi+%2C+I'm+Harinandan;🎓+MCA+Graduate+%7C+🧑‍💻+Tech+Enthusiast;🛠️+Full-Stack+Engineer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,12 +8,12 @@
 
 Hey there! I’m **@harinandanmv** — an MCA graduate focused on building impactful tech solutions.
 
-* 🎓 Recently completed MCA with a focus on **AI, backend systems, and full-stack development**
-* 🌱 Currently building real-world projects using **FastAPI, OpenCV, and modern web technologies**
-* 🧠 Interested in **AI applications, backend engineering, and scalable systems**
-* 🤝 Open to internships, collaborations, and full-time opportunities
-* 📬 Reach out at **[harinandanmv11@gmail.com](mailto:harinandanmv11@gmail.com)** | Pronouns: *its.Hariii*
-* 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise
+- 🌱 Constantly learning and experimenting with new frameworks, tools, and technologies  
+- 🧠 Passionate about turning ideas into functional, real-world solutions  
+- 🔧 From web apps to AI tools, I love building things that solve problems and spark creativity  
+- 🤝 Open to collaborations, internships, and exciting tech conversations  
+- 📬 Reach out at **harinandanmv11@gmail.com** | Pronouns: *its.Hariii*  
+- 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise 
 
 ---
 
