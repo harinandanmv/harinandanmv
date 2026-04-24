@@ -1,19 +1,19 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hiii+%2C+I'm+Harinandan;🎓+MCA+Student+%7C+🧑‍💻+Tech+Enthusiast;🛠️+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=👋+Hiii+%2C+I'm+Harinandan;🎓+MCA+Graduate+%7C+🧑‍💻+Tech+Enthusiast;🛠️+Aspiring+Full-Stack+Developer;" alt="Typing SVG" />
 </p>
 
 ---
 
 ### ✨ About Me
 
-Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a serious love for tech.
+Hey there! I’m **@harinandanmv** — an MCA graduate focused on building impactful tech solutions.
 
-- 🌱 Constantly learning and experimenting with new frameworks, tools, and technologies  
-- 🧠 Passionate about turning ideas into functional, real-world solutions  
-- 🔧 From web apps to AI tools, I love building things that solve problems and spark creativity  
-- 🤝 Open to collaborations, internships, and exciting tech conversations  
-- 📬 Reach out at **harinandanmv11@gmail.com** | Pronouns: *its.Hariii*  
-- 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise 
+* 🎓 Recently completed MCA with a focus on **AI, backend systems, and full-stack development**
+* 🌱 Currently building real-world projects using **FastAPI, OpenCV, and modern web technologies**
+* 🧠 Interested in **AI applications, backend engineering, and scalable systems**
+* 🤝 Open to internships, collaborations, and full-time opportunities
+* 📬 Reach out at **[harinandanmv11@gmail.com](mailto:harinandanmv11@gmail.com)** | Pronouns: *its.Hariii*
+* 😄 *Fun Fact:* I often say “I’m not a techie” — but trust me, the keyboard says otherwise
 
 ---
 
@@ -74,17 +74,11 @@ Hey there! I’m **@harinandanmv** — an MCA student with a curious mind and a 
 - 🚗 **[Laravel Car Rental](https://github.com/harinandanmv/laravel-car-rental)**  
       A streamlined car rental management system with booking, user management, and vehicle inventory features built using Laravel and MySQL.
 
-- ⛅ **[Weather Web App](https://github.com/harinandanmv/weather-web-app)**  
-      A simple and responsive web app that fetches and displays real-time weather information using an external weather API.
-
-- 🖥️ **[Java Swing Car Rental](https://github.com/harinandanmv/java-swing-car-rental)**  
-      A desktop application for managing car rentals, developed with Java Swing, featuring customer handling and rental logs.
-
 - 🤖 **[OpenCV AI Projects](https://github.com/harinandanmv/opencv-ai-projects)**  
       A collection of computer vision and AI mini-projects demonstrating gesture detection, face tracking, pose estimation, and more.
 
-- 📚 **[Study Tracker App](https://github.com/harinandanmv/study-tracker)**  
-      An Android app designed to help students schedule study sessions, monitor progress, and maintain consistent learning habits.
+- 📝 **[QuickNotes AI](https://github.com/harinandanmv/quicknotes-app.git)**</br>
+      A multi-modal AI-powered note-taking app with smart summaries, speech-to-text, and offline-first storage using modern Android architecture (MVVM + Room DB).
 
 ---
 
